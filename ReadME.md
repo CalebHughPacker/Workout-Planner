@@ -29,9 +29,9 @@ Steps to build and/or run the software:
 
 2. Open the directory to the file
 
-3. Compile the program with `g++ Workout-Planner.cpp Plan.cpp Exercise.cpp -o Workout-Planner`
+3. Optionally to compile the program yourself use `g++ Workout-Planner.cpp Plan.cpp Exercise.cpp -o Workout-Planner`
 
-4. Run the program with `.\Workout-Planner.exe`
+4. Run the program `.\Workout-Planner.exe`
 
   
 
